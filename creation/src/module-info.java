@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ZORBES
- *
- */
-module pattern {
-}
