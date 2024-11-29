@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ZORBES
+ *
+ */
+module PATTERN {
+}
